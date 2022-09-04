@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiisterPlaster&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/KiisterPlaster/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiisterPlaster&show_icons=true&theme=synthwave&count_private=true)](https://github.com/KiisterPlaster/github-readme-stats)
